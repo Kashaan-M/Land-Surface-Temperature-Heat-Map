@@ -3,3 +3,7 @@ node_modules/
 global-temperature.json
 
 req.txt
+
+webpack.config.js
+
+webpack.prod.js
